@@ -32,3 +32,16 @@ Step 7: Watch a specific register (e.g., a0)
 ```bash 
 info registers a0
 ```
+ Step 8: Continue Execution
+Run until the program finishes:
+```bash
+(gdb) continue
+```
+Output:
+```bash
+Hello, RISC-V!
+```
+Step 9: Quit GDB
+```bash
+(gdb) quit
+```
