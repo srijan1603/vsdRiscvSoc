@@ -21,3 +21,5 @@ file hello.elf
 output -
 ```bash
 hello.elf: ELF 32-bit LSB executable, UCB RISC-V, ...
+```
+![image](https://github.com/user-attachments/assets/02dce972-af3f-4fdd-a784-acec8fead833)
