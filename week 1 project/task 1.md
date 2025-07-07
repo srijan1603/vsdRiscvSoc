@@ -15,3 +15,6 @@ riscv32-unknown-elf-gcc --version
 riscv32-unknown-elf-objdump --version
 riscv32-unknown-elf-gdb --version
 ```
+![image](https://github.com/user-attachments/assets/cf8aeae8-f9bc-4995-bda7-476f60e14c3a)
+
+![image](https://github.com/user-attachments/assets/6dab2b35-125a-4756-93da-76470fa56f45)
