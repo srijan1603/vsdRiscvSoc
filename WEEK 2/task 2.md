@@ -29,3 +29,6 @@ Start at padframe → generate clock_core, resetb_core_h
 Go to caravel_core → passed to caravel_clocking module
 
 Then generate caravel_clk and caravel_rstn for use across modules
+
+![WhatsApp Image 2025-06-20 at 12 06 06_2421689d](https://github.com/user-attachments/assets/cdb950a4-2a47-4726-8eb3-19f2fccbd4a5)
+
