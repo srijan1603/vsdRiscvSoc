@@ -23,3 +23,4 @@ git branch
 ~~~bash
 git log -1
 ~~~
+![WhatsApp Image 2025-06-20 at 12 05 00_c6ec4e5c](https://github.com/user-attachments/assets/8865bdb9-bcfb-4c49-8fe9-c64d4797438a)
