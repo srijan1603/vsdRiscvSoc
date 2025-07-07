@@ -45,3 +45,6 @@ Step 9: Quit GDB
 ```bash
 (gdb) quit
 ```
+![image](https://github.com/user-attachments/assets/3de63355-4355-4bb5-9dac-2150184515b1)
+
+![image](https://github.com/user-attachments/assets/45688887-8f78-4533-8f3c-e3800513057c)
