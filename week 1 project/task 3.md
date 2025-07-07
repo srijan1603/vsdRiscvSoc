@@ -37,3 +37,4 @@ lw ra,12(sp): Restores the return address from the stack.
 addi sp,sp,16: Frees the allocated stack space.
 ret: Returns to the caller.
 
+![image](https://github.com/user-attachments/assets/d8444b49-8400-4c28-939d-070b2745a432)
